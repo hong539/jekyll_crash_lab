@@ -10,6 +10,12 @@ Try to using jekyll to make some static web pages and also crash.
 
 * try next steps with jekyll to build self-own web-site
 * check the gem packages
+* Is there an Jekyll alternative when coding with Python ?
+    * Wagtail
+        * A Django content management system focused on flexibility and user experience
+    * pelican 
+        * Static site generator that supports Markdown and reST syntax. Powered by Python.
+
 
 ```shell
 #Where is bundle exactly ?
