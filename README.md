@@ -6,6 +6,18 @@ Try to using jekyll to make some static web pages and also crash.
 
 * [My ruby setup](https://github.com/hong539/setup_dev_environment/tree/main/programing_languages/ruby)
 
+## to-do
+
+* try next steps with jekyll to build self-own web-site
+* check the gem packages
+
+```shell
+#Where is bundle exactly ?
+which bundle
+#Where is bundle jekyll ?
+which jekyll
+```
+
 ## play with jekyll
 
 * [jekyll/step-by-step](https://jekyllrb.com/docs/step-by-step/01-setup/)
